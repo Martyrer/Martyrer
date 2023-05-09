@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martyrer
+- 👋 Hi, I’m @Martyrer, the most average dev you've ever met
 - 📫 You can reach me by writing me an email using zveryga.ru@gmail.com
 
 <!---
