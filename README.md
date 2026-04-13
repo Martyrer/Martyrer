@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dmitry [@Martyrer] Shumilin!
+- 👋 I’m Dmitry Shumilin
 - 📫 You can reach me by the email callmemartyrer@gmail.com
 
 <!---
