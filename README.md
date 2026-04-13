@@ -1,4 +1,4 @@
-- 👋 I’m Dmitry Shumilin
+- Dmitry Shumilin
 - 📫 You can reach me by the email callmemartyrer@gmail.com
 
 <!---
