@@ -1,4 +1,4 @@
-📫 reach me using callmemartyrer@gmail.com
+📫 reach me using orbismartyrer@gmail.com
 
 <!---
 Martyrer/Martyrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
